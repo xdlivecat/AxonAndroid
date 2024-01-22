@@ -10,8 +10,8 @@ android {
         applicationId = "com.xdliverblx.axon"
         minSdk = 24
         targetSdk = 34
-        versionCode = 6
-        versionName = "0.5.2-alpha"
+        versionCode = 7
+        versionName = "0.5.3-alpha"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
