@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         WebView webView = (WebView) findViewById(R.id.webview);
         webView.setWebViewClient(new WebViewClient());
-        webView.loadUrl("https://paulovm.com/");
+        webView.loadUrl("https://axon.whitehill.club/");
         webView.getSettings().setDomStorageEnabled(true);
         webView.getSettings().setSaveFormData(true);
         webView.getSettings().setAllowContentAccess(true);
