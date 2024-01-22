@@ -1,4 +1,4 @@
-# Axon - Mobile/Android App
+# Axon - Crap Android App
 
 Source Code, issue tracking and releases for the very unfinished and broken Axon app.
 
