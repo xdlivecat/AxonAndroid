@@ -1,6 +1,6 @@
-# Axon - Android App
+# Axon very borken and unofficial Android App
 
-Source Code, issue tracking and releases for the very unfinished and broken Axon app.
+Source Code, issue tracking and releases for the very unfinished and broken Axon app. it also aint official
 
 quick disclaimer yeah this aint an official app i think you can tell by hte maxwell icon
 ---
